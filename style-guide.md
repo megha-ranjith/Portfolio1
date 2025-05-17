@@ -54,7 +54,7 @@ Ionicon
 
 ``` css
 --border-white: hsla(0, 0%, 100%, 1);
---border-light-gray: hsla(240, 1%, 83%, 1);
+--border-light-gray: hsla(240, 1%, 83%, 1); 
 --border-gainsboro: hsla(220, 13%, 91%, 1);
 --border-eerie-black: hsla(0, 0%, 13%, 1);
 --border-smoky-black: hsla(0, 0%, 6%, 1);
