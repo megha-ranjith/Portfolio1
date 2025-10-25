@@ -1,0 +1,202 @@
+Fitlife - Work Hard To Get Better Life
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+Fitlife
+
+aria-label = close menu
+<ion-icon name="close-sharp" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Join Now
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+The Best
+Fitness Club
+
+Work Hard To Get Better Life
+
+Join the movement that transforms dedication into power. Push limits, crush goals, and live a life fueled by fitness.
+
+Get Started
+
+alt = hero banner
+alt = heart rate
+alt = calories
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+alt = fitness
+
+About Us
+
+Welcome To Our Fitness Gym
+
+At Fitlife, we believe fitness is more than a routine—it’s a lifestyle. Our expert trainers, world-class equipment, and supportive environment make it easy to stay motivated and smash your goals.
+
+Whether you’re a beginner or a seasoned athlete, our tailored training programs will help you grow stronger, faster, and healthier than ever.
+
+alt = Trainer
+
+Denis Robinson
+Our Coach
+
+Explore More
+
+
+
+#---------- VIDEO ----------#
+
+Explore Fitness Life
+
+aria-label = play video
+<ion-icon name="play-sharp" aria-hidden="true"></ion-icon>
+
+Watch More
+
+
+
+#---------- CLASS ----------#
+
+Our Classes
+
+Fitness Classes For Every Goal
+
+alt = Weight Lifting
+
+Weight Lifting
+
+Develop muscle, endurance, and discipline with high-intensity lifting sessions.
+
+Class Full
+
+85%
+
+alt = Cardio & Strenght
+
+Cardio & Strenght
+
+Feel the adrenaline rush with sessions focused on endurance and fat-burning.
+
+70%
+
+alt = Power Yoga
+
+Power Yoga
+
+Balance body and mind with our energizing yoga programs guided by experts.
+
+90%
+
+alt = The Fitness Pack
+
+The Fitness Pack
+
+60%
+
+
+
+#---------- BLOG ----------#
+
+Our News
+
+Latest Blog Feed
+
+alt = Going to the gym for the first time
+
+7 July 2022
+
+Going to the gym for the first time
+
+Start your fitness journey with confidence. Learn essential tips to overcome gym anxiety and build habits that stick.
+Read More
+
+alt = Parturient accumsan cacus pulvinar magna
+
+Parturient accumsan cacus pulvinar magna
+
+alt = Risus purus namien parturient accumsan cacus
+
+Risus purus namien parturient accumsan cacus
+
+
+
+#---------- FOOTER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+Fitlife
+
+Empowering you to transform your body, mind, and lifestyle through fitness.
+
+alt = Clock
+
+Monday - Friday
+7:00Am - 10:00Pm
+
+Saturday - Sunday
+7:00Am - 2:00Pm
+
+Our Links
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Contact Us
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+
+1247/Plot No. 39, 15th Phase, Colony, Kukatpally, Hyderabad
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
+
+1800-121-3637
++91 555 234-8765
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+
+info@flexup.com
+services@flexup.com
+
+Our Newsletter
+
+aria-label = email
+placeholder = Email Address
+
+aria-label = Submit
+<ion-icon name="chevron-forward-sharp" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+&copy; 2022 FlexUp. All Rights Reserved By FlexUp.
+
+Privacy Policy
+Terms & Condition
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="caret-up-sharp" aria-hidden="true"></ion-icon>
